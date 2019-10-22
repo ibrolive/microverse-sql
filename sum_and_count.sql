@@ -1,4 +1,5 @@
 --SUM AND COUNT
+
 --1
 SELECT SUM(population)
 FROM world
